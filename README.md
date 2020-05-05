@@ -1,4 +1,4 @@
-## Customer Data Wrangling
+# Customer Data Wrangling
 
 ### The Problem
 
