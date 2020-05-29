@@ -6,7 +6,7 @@ from math import pi, sin, cos, acos
 # The global average radius of the Earth in kilometers
 EARTH_RADIUS_KM = 6371
 
-# Default values for command line arguments (default is 100km from Intercom's SF office)
+# Default values for command line arguments (default is 100km from SF Financial District)
 CUSTOMER_LIST_FILE_NAME = 'Customer List.txt'
 DISTANCE_TO_CENTER = 100
 CENTER_LAT = 37.788802
